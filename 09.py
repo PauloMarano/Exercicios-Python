@@ -1,0 +1,12 @@
+tab = int(input('digite um numero para descobrir sua taboada até o 10x: ')) 
+x1 = (tab*1)
+x2 = (tab*2)
+x3 = (tab*3)
+x4 = (tab*4)
+x5 = (tab*5)
+x6 = (tab*6)
+x7 = (tab*7)
+x8 = (tab*8)
+x9 = (tab*9)
+x10 = (tab*10)
+print ('1x={} \n 2x={} \n 3x={} \n 4x={} \n 5x={} \n 6x={} \n 7x={} \n 8x={} \n 9x={} \n 10x={}'.format (x1,x2,x3,x4,x5,x6,x7,x8,x9,x10))2
