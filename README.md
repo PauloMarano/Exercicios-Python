@@ -24,4 +24,4 @@ Este repositório serve como registro do meu aprendizado e como material de cons
 
 ## Autor
 Feito por **Paulo Marano** 
-[LinkedIn:](https://www.linkedin.com/in/paulomarano)
+[LinkedIn](https://www.linkedin.com/in/paulomarano)
